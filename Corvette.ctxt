@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=nme\ cpt\ skill\ fee\ home\ doctor
+comment0.target=Corvette(java.lang.String,\ java.lang.String,\ int,\ int,\ java.lang.String,\ boolean)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ManOWar\r\n
+comment1.params=enc
+comment1.target=boolean\ canFight(Encounter)
+numComments=2

@@ -1,0 +1,13 @@
+ManOWar,Victory,AlanAiken,3,3,30
+Frigate,Sophie,BenBaggins,8,16,true
+ManOWar,Endeavour,ColCannon,4,2,20
+Sloop,Arrow,DanDare,5,150,true
+ManOWar,Belerophon,EdEvans,8,3,50
+Frigate,Surprise,FredFox,6,10,false
+Frigate,Jupiter,GilGamage,7,20,false
+Sloop,Paris,HalHenry,5,200,true
+Sloop,Beast,IanIdle,5,400,false
+
+
+
+

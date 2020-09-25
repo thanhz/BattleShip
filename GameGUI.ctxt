@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GameGUI()
+comment1.params=frame
+comment1.target=void\ makeMenuBar(javax.swing.JFrame)
+comment2.params=
+comment2.target=void\ makeFrame()
+comment3.params=
+comment3.target=void\ makeInputAreas()
+numComments=4

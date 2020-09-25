@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=nme\ cpt\ fee\ doctor
+comment0.target=Sloop(java.lang.String,\ java.lang.String,\ int,\ boolean)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Sloop\r\n
+comment1.params=enc
+comment1.target=boolean\ canFight(Encounter)
+comment2.params=
+comment2.target=boolean\ hasDoctor()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

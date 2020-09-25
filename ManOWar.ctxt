@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=nme\ cpt\ skill\ levels\ marines
+comment0.target=ManOWar(java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ManOWar\r\n
+comment1.params=enc
+comment1.target=boolean\ canFight(Encounter)
+comment2.params=
+comment2.target=int\ getLevels()
+comment3.params=
+comment3.target=int\ getMarines()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
